@@ -31,8 +31,7 @@ module.exports = {
         GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
-  TIME_ZONE :  "Asia/Saudi Arabia
-",
+  TIME_ZONE :  "Asia/uea",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
